@@ -1,3 +1,4 @@
 *.pyc
 sentry_auth_ldap.egg-info
 dist
+.DS_Store
